@@ -23,7 +23,7 @@
   
 ## Parallel CUDA algorithm:
 * The code for the Parallel image processing algorithms using CUDA is found in the CUDA folder.
-* To run the sequential functions:
+* To run the Parallel functions:
 
   1. Clone the project.
   2. Open the notebook in google colab.
